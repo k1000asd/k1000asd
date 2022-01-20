@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k1000asd
-- 👀 I’m interested in leraning how to use this web and know more people that are learing like me.
+- 👀 I’m interested in leraning how to use this web and know more people that are learning like me.
 - 🌱 I’m currently learning Full Stack Python Developer
 - 📫 How to reach me camifreelancer@gmail.com
 
